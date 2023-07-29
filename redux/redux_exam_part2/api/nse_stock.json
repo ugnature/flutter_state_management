@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "stock": "ICICI",
+        "current_price": 375.45,
+        "image_url": "https://www.eqimg.com/images/2021/08032021-chart2-equitymaster.gif"
+    },
+    {
+        "id": "2",
+        "stock": "BANK_NIFTY",
+        "current_price": 45872.25,
+        "image_url": "https://www.eqimg.com/images/2021/08032021-chart2-equitymaster.gif"
+    },
+    {
+        "id": "3",
+        "stock": "HINDALCO",
+        "current_price": 875.05,
+        "image_url": "https://www.eqimg.com/images/2021/08032021-chart2-equitymaster.gif"
+    },
+    {
+        "id": "4",
+        "stock": "PNB",
+        "current_price": 451.98,
+        "image_url": "https://www.eqimg.com/images/2021/08032021-chart2-equitymaster.gif"
+    }
+]
